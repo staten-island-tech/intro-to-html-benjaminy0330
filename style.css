@@ -1,0 +1,34 @@
+
+
+body{
+background-color: darkcyan;
+}
+    
+    li{
+        color: white;
+    }
+    .first{
+        color: purple;
+    }
+    #second{
+        color: blue;
+    }
+    h1{
+        font-size: 32px;
+        text-align; center;
+    }
+    img {
+        width: 500px;
+    }
+    .post{
+        background-color: white;
+        height:100px;
+        width: 100px;
+        margin: 50px auto;
+
+
+    }
+        
+        
+
+
